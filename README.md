@@ -1,9 +1,13 @@
 # work---portifolio
 Digital portfolio for PRP370S Work Readiness Assessment
 Name:Mahlubandile
+
 Student Number: 222150211
+
 Course: Diploma in Information and Communication Technology  
+
 Subject Code: PRP370S  
+
 Submission Date: 23 May 2025
 
 ---
